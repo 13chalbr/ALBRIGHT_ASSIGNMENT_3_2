@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALBRIGHT_ASSIGNMENT_3_2", "ALBRIGHT_ASSIGNMENT_3_2.csproj", "{8014034F-CE6B-42EE-AD60-E435C878E8BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8014034F-CE6B-42EE-AD60-E435C878E8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8014034F-CE6B-42EE-AD60-E435C878E8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8014034F-CE6B-42EE-AD60-E435C878E8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8014034F-CE6B-42EE-AD60-E435C878E8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE1F0F7-B682-4A9A-B61D-B1CC3871D8D2}
+	EndGlobalSection
+EndGlobal
